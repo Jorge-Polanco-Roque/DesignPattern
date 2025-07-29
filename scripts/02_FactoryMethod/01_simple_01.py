@@ -66,3 +66,4 @@ print(product_a.operation())           # Se ejecuta el método específico del p
 creator_b = ConcreteCreatorB()
 product_b = creator_b.factory_method()  # Se crea un producto B
 print(product_b.operation())            # Se ejecuta el método específico del producto B
+    
