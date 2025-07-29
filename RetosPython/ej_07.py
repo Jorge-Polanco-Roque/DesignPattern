@@ -16,4 +16,3 @@ def imprimir_primos(hasta):
     print(f"Números primos entre 1 y {hasta}: {lista_primos}")
 
 imprimir_primos(25)
-
