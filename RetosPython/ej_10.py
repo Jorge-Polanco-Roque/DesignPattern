@@ -22,4 +22,4 @@ def reserva(palabra):
 reserva("Hola, mundo")
 
 
-# Versión 2
+
